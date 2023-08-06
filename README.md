@@ -9,6 +9,6 @@ Highlights:-
 
 - Created Navbar for desktop and mobile view
 
-- Created website responsive and interactive
+- Made website responsive and interactive
 
 
